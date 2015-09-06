@@ -1,0 +1,12 @@
+{
+  "CONFIG_NAME": "DEVELOPMENT",
+  "SECRET_KEY": "w0$*o3nntl1efnny3*gk!ih3s$w!eig1f#ec4z0_+06ub1y##h",
+  "DEBUG": true,
+  "DB_CONFIG": {
+    "DB_NAME": "quickUrlDB",
+    "DB_HOST": "localhost",
+    "DB_PORT": 8889,
+    "DB_USERNAME": "",
+    "DB_PASSWORD": ""
+  }
+}

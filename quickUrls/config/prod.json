@@ -1,0 +1,12 @@
+{
+  "CONFIG_NAME": "PRODUCTION",
+  "SECRET_KEY": "w0$*svbdgasg123o3nntl1efnny3*gk",
+  "DEBUG": true,
+  "DB_CONFIG": {
+    "DB_NAME": "quickUrlDB",
+    "DB_HOST": "localhost",
+    "DB_PORT": 27017,
+    "DB_USERNAME": "",
+    "DB_PASSWORD": ""
+  }
+}
